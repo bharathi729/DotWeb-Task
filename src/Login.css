@@ -1,0 +1,130 @@
+.login-container{
+    width: 30rem;
+    height:92vh;
+    padding-top: 3rem;
+    padding-left: 50rem;    
+}
+.login-form{
+    background-color: white;
+
+}
+.login-form h3{
+    font-weight: 500;
+    line-height: 5rem;
+    
+}
+.form-control{
+    display: block;
+    width:400px;
+    padding-top: 2rem;
+}
+.form-control .inputs{
+    margin:0px 0px 20px 0px;
+    
+}
+/* .inputs::placeholder {
+    font-size: 0.9rem;
+} */
+.form-control .button{
+    margin-top: 60px;
+}
+.fp{
+    font-size: 0.8rem;
+    margin-left: 7.5rem;
+    padding-top:0rem ;
+}
+.button{
+    width:14rem;
+    margin-left: 5.5rem;
+    height:2.5rem;
+    border-radius: 1.5rem;
+    background-color: aqua;
+    /* background:linear-gradient(100deg,rgb(199, 6, 229) 50%,rgb(13, 87, 235) 10% 100%); */   
+}
+.btn{
+    border: none;
+    color: white;
+    background:none;
+    padding-top: 0.8rem;
+}
+.sp-text{
+    padding-top: 2rem;
+    font-size: 0.9rem;
+}
+.form{
+    background-color: white;
+    height:85vh;
+    width:24rem;
+    padding-top: 2rem;
+}
+
+/* Mobile Devices */
+@media only screen and (max-width: 600px) {
+    .login-container {
+      width: 100%;
+      height: auto;
+      padding: 2rem;
+    }
+    
+    .login-form {
+      background-color: white;
+    }
+    
+    .login-form h3 {
+      font-weight: 500;
+      line-height: 3rem;
+    }
+    
+    .form-control {
+      display: block;
+      width: 100%;
+      padding-top: 1.5rem;
+      margin-bottom: 1rem;
+    }
+    
+    .form-control .inputs {
+      margin: 0px 0px 20px 0px;
+      
+    }
+    
+    .form-control .button {
+      margin-top: 3rem;
+    }
+    
+    .fp {
+      font-size: 0.8rem;
+      text-align: center;
+      padding-top: 1rem;
+    }
+    
+    .button {
+      width: 48%;
+      margin: 2rem 0;
+      height: 2.5rem;
+      margin-left: 8rem;
+      border-radius: 1.5rem;
+      background-color: aqua;
+    }
+    
+    .btn {
+      border: none;
+      color: white;
+      background: none;
+      padding-top: 0.8rem;
+    }
+    
+    .sp-text {
+      padding-top: 1.5rem;
+      font-size: 0.9rem;
+    }
+    
+    .form {
+      background-color: white;
+      height: auto;
+      width: 100%;
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+    }
+  }
+  
+    
