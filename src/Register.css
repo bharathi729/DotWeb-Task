@@ -1,0 +1,155 @@
+.main-container{
+    height: 33.5rem;
+    width: 72.5rem;
+    /* border:1px solid black; */
+    display: grid;
+    padding:2rem 3rem 2rem 3rem;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 0rem;
+    /* box-shadow: 1px 2px 2px 1px gray ; */
+}
+.left{
+    padding-top: 1rem;
+    background-color:rgb(68, 174, 240);
+    padding-bottom: 2rem;
+    border:1px solid black;
+}
+
+.right{
+    padding-top: 0.5rem;
+    padding-bottom: 2rem;
+    border:1px solid black;
+}
+.heading{
+    color:white;
+}
+.para{
+    color: white;
+    text-align: left;
+    padding-left: 1rem;
+
+}
+.right-para{
+    font-size: 1.2rem;
+    color: grey;
+}
+.right-para1{
+    font-size:0.9rem;
+    color: grey;
+}
+.right-para1:before{
+    content:" ";
+    display: block;
+    height: 0.01rem;
+    width: 10.5rem;
+    position: absolute;
+    top:7.3rem;
+    left:44rem;
+    background:grey;
+  }
+  .right-para1:after{
+    content:" ";
+    display: block;
+    height: 0.01rem;
+    width: 10.5rem;
+    position: absolute;
+    top:7.3rem;
+    right:9rem;
+    background:grey;
+  }
+  .btn{
+    color: red;
+    background-color: white;
+    height: 1.7rem;
+    border-color: red;
+  }
+  .right-para2{
+    font-size:0.9rem;
+    color: grey;
+}
+.right-para2:before{
+    content:" ";
+    display: block;
+    height: 0.01rem;
+    width: 7.9rem;
+    position: absolute;
+    top:11.8rem;
+    left:44rem;
+    background:grey;
+  }
+   .right-para2:after{
+    content:" ";
+    display: block;
+    height: 0.01rem;
+    width: 7.9rem;
+    position: absolute;
+    top:11.8rem;
+    right:9rem;
+    background:grey; 
+  } 
+  .ip{
+    height:0.5rem;
+    width:27.2rem;
+    
+  }
+  .input{
+    margin-bottom: 3rem;
+    margin-top:1.6rem;
+  }
+  .input2{
+    margin-bottom: 2rem;
+  }
+  .forgot{
+    padding-top:1rem;
+    text-align: left;
+    padding-left: 4.2rem;
+    
+  }
+  .text{
+    font-size: 0.8rem;
+    padding-left: 0.2rem;
+  }
+ .fp{
+    text-align: right;
+    padding-right: 5rem;
+    font-size: 0.8rem;
+    margin-top: -1rem;
+    color:rgb(39, 219, 210);
+ }
+ .btn1{
+    width: 27.2rem;
+    height: 2.2rem;
+    background-color: rgb(39, 219, 210);
+    color: white;
+    border: none;
+ }
+ .right-para3{
+    font-size:0.9rem;
+    color: grey;
+}
+.right-para3:before{
+    content:" ";
+    display: block;
+    height: 0.01rem;
+    width: 7.9rem;
+    position: absolute;
+    top:28.5rem;
+    left:44rem;
+    background:grey;
+  }
+   .right-para3:after{
+    content:" ";
+    display: block;
+    height: 0.01rem;
+    width: 7.9rem;
+    position: absolute;
+    top:28.5rem;
+    right:9rem;
+    background:grey; 
+  } 
+  .btn2{
+    width: 27.2rem;
+    height: 2.2rem;
+    color: red;
+    border-color: red;
+ }
