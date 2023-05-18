@@ -43,9 +43,9 @@ const Register=() => {
                 </label>
                 <p className='fp'><b>Forgot Password?</b></p>
                 </div>
-                <button className='btn1'><i class="zmdi zmdi-lock material-icons-name"></i> LOGIN</button>
+                <button className='btn1'><i class="zmdi zmdi-lock-outline"></i> LOGIN</button>
                 <p className='right-para3'>New to RentalApp ?</p>
-                <button className='btn2'><i class="zmdi zmdi-account material-icons-name"></i> Register</button>
+                <button className='btn2'><i class="zmdi zmdi-account-o"></i> Register</button>
             </div> 
     </div>
   )
