@@ -71,10 +71,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-### Design task2 Output
-<img width="960" alt="2023-05-17 (1)" src="https://github.com/bharathi729/DotWeb-Task/assets/105111939/a12c77c3-0803-4229-9ee4-54312d3cb7a6">
+### Design task1
+![Screenshot from 2023-05-18 13-19-21](https://github.com/bharathi729/DotWeb-Task/assets/105111939/ae44c53e-fb37-4b7d-96f8-d5d4b0d1a7b1)
+
+![Screenshot from 2023-05-18 13-16-50](https://github.com/bharathi729/DotWeb-Task/assets/105111939/df8f8439-3612-4bb8-b710-11ddf333c072)
 
 
-### Design task1 Output
-<img width="960" alt="2023-05-17" src="https://github.com/bharathi729/DotWeb-Task/assets/105111939/38a0b666-6e78-4427-9292-19088acba61b">
+### Design task2
+![Screenshot from 2023-05-18 13-14-19](https://github.com/bharathi729/DotWeb-Task/assets/105111939/4b9ac635-98b8-4cf9-ac04-5b6e684bb02b)
+
+![Screenshot from 2023-05-18 13-15-25](https://github.com/bharathi729/DotWeb-Task/assets/105111939/198c9087-9d79-4daa-944c-6d635ea1f60e)
 
