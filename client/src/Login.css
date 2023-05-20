@@ -1,6 +1,6 @@
 .login-container{
     width: 35.39rem;
-    height:92.8vh;
+    height:91.8vh;
     padding-top: 3rem;
     padding-left: 50rem;    
 }
@@ -13,18 +13,25 @@
     line-height: 5rem;
     
 }
+.recaptcha{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left:5rem;
+  transform:scale(0.77);
+  -webkit-transform:scale(0.77);
+  transform-origin:0 0;
+  -webkit-transform-origin:0 0;
+}
 .form-control{
     display: block;
     width:400px;
-    padding-top: 2rem;
+    padding-top: 0.5rem;
 }
 .form-control .inputs{
     margin:0px 0px 20px 0px;
     
 }
-/* .inputs::placeholder {
-    font-size: 0.9rem;
-} */
 .form-control .button{
     margin-top: 60px;
 }
@@ -32,14 +39,14 @@
     font-size: 0.8rem;
     margin-left: 7.5rem;
     padding-top:0rem ;
+    padding-bottom: 1rem;
 }
 .button{
     width:14rem;
     margin-left: 5.5rem;
     height:2.5rem;
     border-radius: 1.5rem;
-    background-color: aqua;
-    /* background:linear-gradient(100deg,rgb(199, 6, 229) 50%,rgb(13, 87, 235) 10% 100%); */   
+    background-color: aqua;  
 }
 .btn{
     border: none;
